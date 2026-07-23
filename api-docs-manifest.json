@@ -1,9 +1,13 @@
 
-[
-  {
-    "7dtxjqk0u1": "docs/7dtxjqk0u1/README.md",
-  },
-  {
-   "cfau98s7c0": "docs/cfau98s7c0/README.md",
-  }
-]
+{
+  "mappings": [
+    {
+      "api_id": "7dtxjqk0u1",
+      "doc_path": "docs/7dtxjqk0u1/README.md"
+    },
+    {
+      "api_id": "cfau98s7c0",
+      "doc_path": "docs/cfau98s7c0/README.md"
+    },
+  ]
+}
